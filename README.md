@@ -1,7 +1,7 @@
-A app that records daily water use and water saving, advocating conservation and advocating environmental protection.
+一款记录每日用水和节水的app，提倡节约，提倡环保。
+内置定时提醒功能，只要事先设置好时间，便会实时提醒您该打开app记录了。
 
-
-![image](https://github.com/watersave/water_common_place/blob/master/application.png)
+![image](https://github.com/watersave/water_common_place/blob/master/water.png)
 
 Framework
 
